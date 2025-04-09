@@ -67,3 +67,5 @@ document.addEventListener('mouseup', () => {
     note.dom.style.zIndex = 'auto';
     note.dom = null;
 })
+
+// Manipular o Json
